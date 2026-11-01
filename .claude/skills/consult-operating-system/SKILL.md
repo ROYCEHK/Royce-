@@ -26,6 +26,26 @@ An engagement folder holds: `01 Charter`, `02 Workplan`, `03 Analysis`, `04 Stor
 Files follow drive-filing-standard: `<Topic> <Descriptor>_vN_draft.md`. Never overwrite.
 OCSiAl data stays in OCSIAL 001. Link to it; do not copy restricted figures.
 
+## Templates (60 Knowledge – Frameworks & Templates)
+Always start from these. Make a copy into the engagement folder (`<Template> – ENG-NNN_v1_draft`) and never edit the template itself.
+| Template | Type | id | Used by |
+|---|---|---|---|
+| T01 Problem Statement Worksheet | Doc | 1rwsCOJYh5JeAkOk4jZ1empVdLclt22I0Ew81sL4MaR0 | consult-problem-framing |
+| T02 Engagement Charter | Doc | 1uBGDHRpbIutSpx0qAcI0Yl2Y8dWhrnTCHSert-kJtdI | chief-of-consultant |
+| T03 Engagement Workplan | Sheet | 1Rbke5bsUST61kIa2PHoP0ypRJdlC2mp8wUqAoegg28A | chief-of-consultant |
+| T04 Issue Tree & Hypothesis | Doc | 1FzhcRNNH-3VBS-uKw5Nl2rYIJ1kc5CAJpnyM2diIMq8 | consult-problem-framing |
+| T05 Assumption Register | Sheet | 1xE0-yr3a0M0OLtvzsZ8hnMOstBKwMYR1c0_eUlZ0i0s | consult-assumption-audit |
+| T06 Strategic Option Scoring Matrix | Sheet | 1jd9R8a3leYm4dsXMkn-4bVd0phI5ufMMUZXfrYs7AUA | consult-strategic-options |
+| T07 Business Case Summary | Doc | 1ZJcZlfWxCRb581BFU9osidk859flAtpqv2Mql57YJWw | consult-business-case |
+| T08 Initiative Prioritisation | Sheet | 1VDmuuW9QtrEw1ALBp8rIJBEtc2kv5ai7hWHRPfASKUc | consult-initiative-prioritization |
+| T09 Risk Register | Sheet | 1pZgA13Aw_5sJpdoBvcDdszZH9ChdP2kO8BC9pEUh9ss | consult-risk-mitigation |
+| T10 KPI Dictionary | Sheet | 1QYk5ostqkO4w26_YFkCKhzym21B4Ow6z1KbTmU6sop0 | consult-kpi-architecture |
+| T11 Stakeholder Map & Engagement Plan | Sheet | 1Y4LNd_j5YinTRGWudLcsQLVlwpgLDlLUFCwVDryy9M8 | consult-stakeholder-alignment |
+| T12 Storyline & Ghost Deck | Doc | 1Evt9o86IVzT8-WXtsoNgjY9rzJhqA0KhNZJSiUbZjv8 | consult-narrative-builder |
+| T13 Decision Memo | Doc | 1gLOe9sJ4j9RmkoHWxI8hTYfryngMsaoTjZ9o0jXKYHQ | consult-decision-memo |
+| T14 Competitor Profile | Doc | 1a6-jae8IJCNN_cWEeL4qcGsnJ-6bBnoFyXbDtkA-paM | consult-competitive-intelligence |
+| T15 Sceptic Review Checklist | Doc | 1W92UX94DxsWwD3STjaS7OOu8QtrTA2Lp0mrr2nUKUOw | engagement-sceptic, quality gate |
+
 ## Engagement lifecycle
 1. **Intake.** Problem-framing produces the Problem Statement and the key question. Open a row in the Engagement Register with these fields: ID, question, owner, decision-maker, deadline, status.
 2. **Diagnose.** Run situation assessment and the assumption audit, then form the hypothesis tree. Each hypothesis needs an analysis that could prove it false.
